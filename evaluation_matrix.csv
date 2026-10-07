@@ -1,0 +1,3 @@
+Query_ID,Question,Context_Relevance,Faithfulness,Answer_Correctness
+1,What is CAN TP in AUTOSAR?,0.95,1.0,0.94
+2,What is vehicle speed for ID 102?,0.98,1.0,0.97
